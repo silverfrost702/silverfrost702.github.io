@@ -26,19 +26,6 @@ Machine Learning · Time Series Forecasting · Deep Learning · Feature Engineer
 
 ---
 
-### 🤖 HackUTA 7 — AI-Powered Form Automation Assistant
-
-[GitHub Repository](https://github.com/silverfrost702/HACKUTA-7){: .btn .btn--primary }
-
-Built an **AI-driven chatbot web application** to automate and simplify form-filling workflows.
-
-Integrated the **Google Gemini API** for natural language understanding and leveraged **Supabase** for backend data management. Implemented the full pipeline from API orchestration to a user-facing web interface.
-
-**Skills & Tools:**  
-Python · Flask · Streamlit · NLP · API Integration · Full-Stack Prototyping
-
----
-
 ### 🚀 SpaceX Launch Success Prediction
 
 [GitHub Repository](https://github.com/silverfrost702/Projects/tree/main/SpaceX_Launch_Success_Prediction){: .btn .btn--primary }
@@ -81,6 +68,19 @@ Built a structured **data model** and implemented **DAX measures** to support ex
 
 **Focus Areas:**  
 Power BI · Data Modeling · DAX · Interactive Dashboards · Data Visualization
+
+---
+
+### 🤖 HackUTA 7 — AI-Powered Form Automation Assistant *(Group Project)*
+
+[GitHub Repository](https://github.com/silverfrost702/HACKUTA-7){: .btn .btn--primary }
+
+Collaborated on an **AI-driven chatbot web application** to automate and simplify form-filling workflows.
+
+Integrated the **Google Gemini API** for natural language understanding and leveraged **Supabase** for backend data management. Contributed to backend integration and user-facing functionality as part of a team-based development effort.
+
+**Skills & Tools:**  
+Python · Flask · Streamlit · NLP · API Integration · Team Collaboration
 
 ---
 
