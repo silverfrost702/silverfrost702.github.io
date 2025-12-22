@@ -17,7 +17,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 0
 paginate_path: /page:num/
-timezone:
+timezone: America/Dallas
 
 include:
   - _pages
