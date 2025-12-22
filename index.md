@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-title: "Aspiring Data Scientist"
+title: "Data Scientist"
 ---
 
 I am an MS Data Science graduate student at the University of Texas at Arlington, focused on building end-to-end data science solutions that convert data into actionable insights.
