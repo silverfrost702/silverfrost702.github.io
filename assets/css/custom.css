@@ -1,5 +1,5 @@
 /* Increase author avatar size */
 .author__avatar img {
-  width: 160px;
-  height: 160px;
+  width: 360px;
+  height: 360px;
 }
