@@ -1,5 +1,11 @@
-/* Increase author avatar size */
+/* Increase author avatar container + image */
+.author__avatar {
+  width: 180px;
+  height: 180px;
+}
+
 .author__avatar img {
-  width: 360px;
-  height: 360px;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
 }
