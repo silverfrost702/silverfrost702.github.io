@@ -1,9 +1,5 @@
-/* Override Minimal Mistakes circular avatar */
-.author__avatar {
-  border-radius: 12px !important;
-  overflow: hidden;
-}
-
+/* Increase author avatar size */
 .author__avatar img {
-  border-radius: 12px !important;
+  width: 160px;
+  height: 160px;
 }
