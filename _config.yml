@@ -7,6 +7,11 @@ github_username: silverfrost702
 twitter_username:
 
 minimal_mistakes_skin: default
+
+# Custom CSS
+custom_css:
+  - /assets/css/custom.css
+
 search: true
 
 # Build settings
