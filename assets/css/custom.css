@@ -4,3 +4,15 @@
   height: auto !important;
   max-width: none !important;
 }
+/* Subtle data-style background */
+body {
+  background-color: #fafafa;
+  background-image: radial-gradient(#e5e7eb 0.5px, transparent 0.5px);
+  background-size: 20px 20px;
+}
+
+/* Keep main content readable */
+.page__content,
+.sidebar {
+  background-color: #ffffff;
+}
