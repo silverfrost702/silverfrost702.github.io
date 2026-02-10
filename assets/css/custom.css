@@ -1,13 +1,6 @@
-/* Scale avatar relative to sidebar width */
-.author__avatar {
-  width: 100%;
-  text-align: center;
-}
-
+/* Force avatar to scale relative to sidebar */
 .author__avatar img {
-  width: 80%;
-  height: auto;
-  max-width: 220px;   /* safety cap */
-  border-radius: 50%;
-  object-fit: cover;
+  width: 80% !important;
+  height: auto !important;
+  max-width: none !important;
 }
