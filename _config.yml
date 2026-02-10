@@ -12,6 +12,9 @@ minimal_mistakes_skin: default
 custom_css:
   - /assets/css/custom.css
 
+footer_scripts:
+  - /assets/js/scroll.js
+
 search: true
 
 # Build settings
