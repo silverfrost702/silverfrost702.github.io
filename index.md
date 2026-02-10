@@ -10,8 +10,6 @@ My experience includes machine learning, statistical modeling, and data visualiz
 
 ---
 
-<div class="fade-in">
-
 ## Core Expertise
 
 - Machine Learning & Predictive Modeling
@@ -19,7 +17,6 @@ My experience includes machine learning, statistical modeling, and data visualiz
 - Data Visualization & Storytelling
 - Interactive Dashboards (Streamlit, Power BI)
 
-</div>
 ---
 
 ## Technical Skills
